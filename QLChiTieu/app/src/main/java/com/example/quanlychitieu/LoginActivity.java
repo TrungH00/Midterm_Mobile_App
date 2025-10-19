@@ -20,7 +20,7 @@ import com.example.quanlychitieu.model.User;
 
 //this app only accepts 1 user account because it is run in local Database
 public class LoginActivity extends AppCompatActivity implements LoaderManager.LoaderCallbacks<Cursor>,
-ShowingSecurityQuestionFragment.FromCallBack{
+        ShowingSecurityQuestionFragment.FromCallBack {
 
     //key for shared preference
     public static final String ENABLE_LOGIN = "ENABLE_LOGIN";
@@ -56,7 +56,7 @@ ShowingSecurityQuestionFragment.FromCallBack{
          * */
         try {
             user = mDataSource.getUser();
-        }catch(Exception e){
+        } catch (Exception e) {
             Toast.makeText(this, R.string.login_no_user, Toast.LENGTH_SHORT).show();
         }
 
@@ -86,13 +86,6 @@ ShowingSecurityQuestionFragment.FromCallBack{
                 checkValidity();
 
             } else if (id == R.id.register) {
-                if (user != null) {
-                    AlertDialog.Builder builder = new AlertDialog.Builder(LoginActivity.this);
-                    builder.setTitle(R.string.register_error);
-                    builder.setMessage(R.string.sign_up_error_user_already_in_database);
-                    builder.setPositiveButton("OK", null).create().show();
-                    return;
-                }
                 Intent intent = new Intent(LoginActivity.this, RegisterActivity.class);
                 startActivity(intent);
                 finish();
@@ -109,7 +102,7 @@ ShowingSecurityQuestionFragment.FromCallBack{
 
 
     //if the user wants to sign in, this method is called
-    private void checkValidity(){
+    private void checkValidity() {
         email = emailEdt.getText().toString();
         password = passwordEdt.getText().toString();
 
@@ -119,31 +112,31 @@ ShowingSecurityQuestionFragment.FromCallBack{
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setTitle(R.string.sign_in_error);
 
-        if(email.isEmpty()||password.isEmpty()){
+        if (email.isEmpty() || password.isEmpty()) {
             builder.setMessage(R.string.sign_in_error_prompt_email_password);
             builder.setCancelable(false).setPositiveButton("OK", null).create().show();
             return;
         }
 
         //if there is no user in the database
-        if(user==null){
+        if (user == null) {
             builder.setMessage(R.string.sign_in_error_no_user_in_database);
             builder.setCancelable(false).setPositiveButton("OK", null).create().show();
             return;
         }
 
-        if(user.getEmail().equals(email)){
+        if (user.getEmail().equals(email)) {
             //there is the matching email and the password data
-            if(user.getPassword().equals(password)){
+            if (user.getPassword().equals(password)) {
                 Intent mainIntent = new Intent(LoginActivity.this, MainActivity.class);
                 startActivity(mainIntent);
                 finish();
-            }else{
+            } else {
                 //there is the matching email in the database but the password is different
                 builder.setMessage(R.string.sign_in_error_no_password);
                 builder.setCancelable(false).setPositiveButton("OK", null).create().show();
             }
-        }else{
+        } else {
             //if there is no user who has the same email in the database
             builder.setMessage(R.string.sign_in_error_no_email_in_database);
             builder.setCancelable(false).setPositiveButton("OK", null).create().show();
@@ -155,7 +148,7 @@ ShowingSecurityQuestionFragment.FromCallBack{
      * It is called when the user forgets the password or id
      */
 
-    private void promptSecurityQuestion(){
+    private void promptSecurityQuestion() {
 
         ShowingSecurityQuestionFragment fragment = new ShowingSecurityQuestionFragment();
 
@@ -169,20 +162,20 @@ ShowingSecurityQuestionFragment.FromCallBack{
 
     }
 
-    private void reLoad(){
+    private void reLoad() {
         getLoaderManager().restartLoader(0, null, this);
         user = mDataSource.getUser();
     }
 
     @Override
-    public void onResume(){
+    public void onResume() {
         super.onResume();
         mDataSource.open();
         reLoad();
     }
 
     @Override
-    public void onPause(){
+    public void onPause() {
         super.onPause();
         mDataSource.close();
     }
@@ -207,9 +200,9 @@ ShowingSecurityQuestionFragment.FromCallBack{
     @Override
     public void securityQuestionAnswered(String securityAnswer) {
 
-        if(securityAnswer.toLowerCase().equals(user.getSecuirtyAnswer().toLowerCase())){
-            Toast.makeText(this, "Your password is: "+user.getPassword() , Toast.LENGTH_LONG).show();
-        }else{
+        if (securityAnswer.toLowerCase().equals(user.getSecuirtyAnswer().toLowerCase())) {
+            Toast.makeText(this, "Your password is: " + user.getPassword(), Toast.LENGTH_LONG).show();
+        } else {
             Toast.makeText(this, "Wrong security answer!", Toast.LENGTH_SHORT).show();
         }
     }

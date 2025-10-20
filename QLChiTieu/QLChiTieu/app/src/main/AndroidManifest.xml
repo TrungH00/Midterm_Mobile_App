@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.quanlychitieu">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.example.quanlychitieu.MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar" />
+
+        <provider
+            android:name="com.example.quanlychitieu.database.DataProvider"
+            android:authorities="com.example.quanlychitieu.dataprovider"
+            android:exported="false" />
+
+        <activity
+            android:name="com.example.quanlychitieu.SplashScreen"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.quanlychitieu.SettingAccountsActivity"
+            android:label="Add Accounts"
+            android:parentActivityName="com.example.quanlychitieu.ShowingAccountsActivity" />
+        <activity
+            android:name="com.example.quanlychitieu.ShowingAccountsActivity"
+            android:label="My Accounts"
+            android:parentActivityName="com.example.quanlychitieu.MainActivity" />
+        <activity
+            android:name="com.example.quanlychitieu.BudgetActivity"
+            android:label="Budget"
+            android:parentActivityName="com.example.quanlychitieu.MainActivity" />
+        <activity
+            android:name="com.example.quanlychitieu.ShowingExpensesActivity"
+            android:label="Expense"
+            android:parentActivityName="com.example.quanlychitieu.MainActivity" />
+        <activity
+            android:name="com.example.quanlychitieu.AddingExpenseActivity"
+            android:label="Add Expense"
+            android:parentActivityName="com.example.quanlychitieu.MainActivity" />
+        <activity
+            android:name="com.example.quanlychitieu.AddingIncomeActivity"
+            android:label="Add Income"
+            android:parentActivityName="com.example.quanlychitieu.ShowingIncomeActivity" />
+        <activity
+            android:name="com.example.quanlychitieu.ShowingIncomeActivity"
+            android:label="Income"
+            android:parentActivityName="com.example.quanlychitieu.MainActivity" />
+        <activity
+            android:name="com.example.quanlychitieu.ShowingExpensesDetailActivity"
+            android:label="Expense Detail"
+            android:parentActivityName="com.example.quanlychitieu.ShowingExpensesActivity" />
+        <activity
+            android:name="com.example.quanlychitieu.ShowingIncomeDetailActivity"
+            android:label="Income Detail"
+            android:parentActivityName="com.example.quanlychitieu.ShowingIncomeActivity" />
+        <activity
+            android:name="com.example.quanlychitieu.TransferActivity"
+            android:label="@string/transfer"
+            android:parentActivityName="com.example.quanlychitieu.MainActivity" />
+        <activity
+            android:name="com.example.quanlychitieu.IncomeCategoryActivity"
+            android:label="Income Category"
+            android:parentActivityName="com.example.quanlychitieu.MainActivity" />
+        <activity
+            android:name="com.example.quanlychitieu.ShowingCreditActivity"
+            android:label="Credit Cards"
+            android:parentActivityName="com.example.quanlychitieu.MainActivity" />
+        <activity
+            android:name="com.example.quanlychitieu.AddingCreditActivity"
+            android:label="Adding Cards"
+            android:parentActivityName="com.example.quanlychitieu.ShowingCreditActivity" />
+        <activity
+            android:name="com.example.quanlychitieu.ShowingCreditDetailActivity"
+            android:label="Credit Detail"
+            android:parentActivityName="com.example.quanlychitieu.ShowingCreditActivity" />
+        <activity
+            android:name="com.example.quanlychitieu.LoginActivity"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name="com.example.quanlychitieu.PreferencesActivity"
+            android:label="Settings"
+            android:parentActivityName="com.example.quanlychitieu.MainActivity" />
+        <activity android:name="com.example.quanlychitieu.RegisterActivity"
+            android:theme="@style/AppTheme.NoActionBar"/>
+    </application>
+
+</manifest>

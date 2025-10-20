@@ -98,6 +98,12 @@ public class RegisterActivity extends AppCompatActivity implements ChoosingSecur
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setTitle(R.string.register_error);
 
+        if (user != null) {
+            builder.setMessage(R.string.sign_up_error_user_already_in_database);
+            builder.setPositiveButton("OK", null).create().show();
+            return;
+        }
+
         //variables to store user input
         String email = emailEdt.getText().toString();
         String password = passwordEdt.getText().toString();

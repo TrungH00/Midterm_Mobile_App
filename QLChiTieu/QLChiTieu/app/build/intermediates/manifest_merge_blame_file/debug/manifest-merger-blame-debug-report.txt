@@ -1,0 +1,234 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.quanlychitieu"
+4    android:versionCode="7"
+5    android:versionName="1.01" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+9        android:targetSdkVersion="26" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:5:5-66
+11-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:5:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:6:5-78
+12-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:6:22-76
+13
+14    <application
+14-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:8:5-99:19
+15        android:allowBackup="true"
+15-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:9:9-35
+16        android:debuggable="true"
+17        android:extractNativeLibs="false"
+18        android:icon="@mipmap/ic_launcher"
+18-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:10:9-43
+19        android:label="@string/app_name"
+19-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:11:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:12:9-54
+21        android:supportsRtl="true"
+21-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:13:9-35
+22        android:testOnly="true"
+23        android:theme="@style/AppTheme" >
+23-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:14:9-40
+24        <activity
+24-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:15:9-18:59
+25            android:name="com.example.quanlychitieu.MainActivity"
+25-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:16:13-66
+26            android:label="@string/app_name"
+26-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:17:13-45
+27            android:theme="@style/AppTheme.NoActionBar" />
+27-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:18:13-56
+28
+29        <provider
+29-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:20:9-23:40
+30            android:name="com.example.quanlychitieu.database.DataProvider"
+30-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:21:13-75
+31            android:authorities="com.example.quanlychitieu.dataprovider"
+31-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:22:13-73
+32            android:exported="false" />
+32-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:23:13-37
+33
+34        <activity
+34-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:25:9-33:20
+35            android:name="com.example.quanlychitieu.SplashScreen"
+35-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:26:13-66
+36            android:theme="@style/AppTheme.NoActionBar" >
+36-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:27:13-56
+37            <intent-filter>
+37-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:28:13-32:29
+38                <action android:name="android.intent.action.MAIN" />
+38-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:29:17-69
+38-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:29:25-66
+39
+40                <category android:name="android.intent.category.LAUNCHER" />
+40-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:31:17-77
+40-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:31:27-74
+41            </intent-filter>
+42        </activity>
+43        <activity
+43-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:34:9-37:94
+44            android:name="com.example.quanlychitieu.SettingAccountsActivity"
+44-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:35:13-77
+45            android:label="Add Accounts"
+45-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:36:13-41
+46            android:parentActivityName="com.example.quanlychitieu.ShowingAccountsActivity" />
+46-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:37:13-91
+47        <activity
+47-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:38:9-41:83
+48            android:name="com.example.quanlychitieu.ShowingAccountsActivity"
+48-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:39:13-77
+49            android:label="My Accounts"
+49-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:40:13-40
+50            android:parentActivityName="com.example.quanlychitieu.MainActivity" />
+50-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:41:13-80
+51        <activity
+51-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:42:9-45:83
+52            android:name="com.example.quanlychitieu.BudgetActivity"
+52-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:43:13-68
+53            android:label="Budget"
+53-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:44:13-35
+54            android:parentActivityName="com.example.quanlychitieu.MainActivity" />
+54-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:45:13-80
+55        <activity
+55-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:46:9-49:83
+56            android:name="com.example.quanlychitieu.ShowingExpensesActivity"
+56-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:47:13-77
+57            android:label="Expense"
+57-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:48:13-36
+58            android:parentActivityName="com.example.quanlychitieu.MainActivity" />
+58-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:49:13-80
+59        <activity
+59-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:50:9-53:83
+60            android:name="com.example.quanlychitieu.AddingExpenseActivity"
+60-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:51:13-75
+61            android:label="Add Expense"
+61-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:52:13-40
+62            android:parentActivityName="com.example.quanlychitieu.MainActivity" />
+62-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:53:13-80
+63        <activity
+63-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:54:9-57:92
+64            android:name="com.example.quanlychitieu.AddingIncomeActivity"
+64-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:55:13-74
+65            android:label="Add Income"
+65-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:56:13-39
+66            android:parentActivityName="com.example.quanlychitieu.ShowingIncomeActivity" />
+66-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:57:13-89
+67        <activity
+67-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:58:9-61:83
+68            android:name="com.example.quanlychitieu.ShowingIncomeActivity"
+68-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:59:13-75
+69            android:label="Income"
+69-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:60:13-35
+70            android:parentActivityName="com.example.quanlychitieu.MainActivity" />
+70-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:61:13-80
+71        <activity
+71-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:62:9-65:94
+72            android:name="com.example.quanlychitieu.ShowingExpensesDetailActivity"
+72-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:63:13-83
+73            android:label="Expense Detail"
+73-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:64:13-43
+74            android:parentActivityName="com.example.quanlychitieu.ShowingExpensesActivity" />
+74-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:65:13-91
+75        <activity
+75-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:66:9-69:92
+76            android:name="com.example.quanlychitieu.ShowingIncomeDetailActivity"
+76-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:67:13-81
+77            android:label="Income Detail"
+77-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:68:13-42
+78            android:parentActivityName="com.example.quanlychitieu.ShowingIncomeActivity" />
+78-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:69:13-89
+79        <activity
+79-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:70:9-73:83
+80            android:name="com.example.quanlychitieu.TransferActivity"
+80-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:71:13-70
+81            android:label="@string/transfer"
+81-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:72:13-45
+82            android:parentActivityName="com.example.quanlychitieu.MainActivity" />
+82-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:73:13-80
+83        <activity
+83-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:74:9-77:83
+84            android:name="com.example.quanlychitieu.IncomeCategoryActivity"
+84-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:75:13-76
+85            android:label="Income Category"
+85-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:76:13-44
+86            android:parentActivityName="com.example.quanlychitieu.MainActivity" />
+86-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:77:13-80
+87        <activity
+87-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:78:9-81:83
+88            android:name="com.example.quanlychitieu.ShowingCreditActivity"
+88-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:79:13-75
+89            android:label="Credit Cards"
+89-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:80:13-41
+90            android:parentActivityName="com.example.quanlychitieu.MainActivity" />
+90-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:81:13-80
+91        <activity
+91-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:82:9-85:92
+92            android:name="com.example.quanlychitieu.AddingCreditActivity"
+92-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:83:13-74
+93            android:label="Adding Cards"
+93-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:84:13-41
+94            android:parentActivityName="com.example.quanlychitieu.ShowingCreditActivity" />
+94-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:85:13-89
+95        <activity
+95-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:86:9-89:92
+96            android:name="com.example.quanlychitieu.ShowingCreditDetailActivity"
+96-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:87:13-81
+97            android:label="Credit Detail"
+97-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:88:13-42
+98            android:parentActivityName="com.example.quanlychitieu.ShowingCreditActivity" />
+98-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:89:13-89
+99        <activity
+99-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:90:9-92:59
+100            android:name="com.example.quanlychitieu.LoginActivity"
+100-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:91:13-67
+101            android:theme="@style/AppTheme.NoActionBar" />
+101-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:92:13-56
+102        <activity
+102-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:93:9-96:83
+103            android:name="com.example.quanlychitieu.PreferencesActivity"
+103-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:94:13-73
+104            android:label="Settings"
+104-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:95:13-37
+105            android:parentActivityName="com.example.quanlychitieu.MainActivity" />
+105-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:96:13-80
+106        <activity
+106-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:97:9-98:58
+107            android:name="com.example.quanlychitieu.RegisterActivity"
+107-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:97:19-76
+108            android:theme="@style/AppTheme.NoActionBar" />
+108-->C:\Users\User\Downloads\QLChiTieu\app\src\main\AndroidManifest.xml:98:13-56
+109
+110        <meta-data
+110-->[com.android.support:design:26.1.0] C:\Users\User\.gradle\caches\transforms-3\a18ad930a269ec3587ffa677547df047\transformed\design-26.1.0\AndroidManifest.xml:26:9-28:38
+111            android:name="android.support.VERSION"
+111-->[com.android.support:design:26.1.0] C:\Users\User\.gradle\caches\transforms-3\a18ad930a269ec3587ffa677547df047\transformed\design-26.1.0\AndroidManifest.xml:27:13-51
+112            android:value="26.1.0" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+112-->[com.android.support:design:26.1.0] C:\Users\User\.gradle\caches\transforms-3\a18ad930a269ec3587ffa677547df047\transformed\design-26.1.0\AndroidManifest.xml:28:13-35
+113        <activity
+113-->[com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\User\.gradle\caches\transforms-3\adc246efd5ecae604ff15ad974157589\transformed\play-services-ads-lite-15.0.0\AndroidManifest.xml:29:9-33:64
+114            android:name="com.google.android.gms.ads.AdActivity"
+114-->[com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\User\.gradle\caches\transforms-3\adc246efd5ecae604ff15ad974157589\transformed\play-services-ads-lite-15.0.0\AndroidManifest.xml:30:13-65
+115            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+115-->[com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\User\.gradle\caches\transforms-3\adc246efd5ecae604ff15ad974157589\transformed\play-services-ads-lite-15.0.0\AndroidManifest.xml:31:13-122
+116            android:exported="false"
+116-->[com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\User\.gradle\caches\transforms-3\adc246efd5ecae604ff15ad974157589\transformed\play-services-ads-lite-15.0.0\AndroidManifest.xml:32:13-37
+117            android:theme="@android:style/Theme.Translucent" />
+117-->[com.google.android.gms:play-services-ads-lite:15.0.0] C:\Users\User\.gradle\caches\transforms-3\adc246efd5ecae604ff15ad974157589\transformed\play-services-ads-lite-15.0.0\AndroidManifest.xml:33:13-61
+118
+119        <meta-data
+119-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\User\.gradle\caches\transforms-3\430c063178812a8ddeb5ffc25c7ecbdd\transformed\play-services-basement-15.0.1\AndroidManifest.xml:23:9-25:69
+120            android:name="com.google.android.gms.version"
+120-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\User\.gradle\caches\transforms-3\430c063178812a8ddeb5ffc25c7ecbdd\transformed\play-services-basement-15.0.1\AndroidManifest.xml:24:13-58
+121            android:value="@integer/google_play_services_version" />
+121-->[com.google.android.gms:play-services-basement:15.0.1] C:\Users\User\.gradle\caches\transforms-3\430c063178812a8ddeb5ffc25c7ecbdd\transformed\play-services-basement-15.0.1\AndroidManifest.xml:25:13-66
+122        <meta-data
+122-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\User\.gradle\caches\transforms-3\98456cd3c7931ccfc124273503f8e846\transformed\runtime-1.0.0\AndroidManifest.xml:25:9-27:47
+123            android:name="android.arch.lifecycle.VERSION"
+123-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\User\.gradle\caches\transforms-3\98456cd3c7931ccfc124273503f8e846\transformed\runtime-1.0.0\AndroidManifest.xml:26:13-58
+124            android:value="27.0.0-SNAPSHOT" />
+124-->[android.arch.lifecycle:runtime:1.0.0] C:\Users\User\.gradle\caches\transforms-3\98456cd3c7931ccfc124273503f8e846\transformed\runtime-1.0.0\AndroidManifest.xml:27:13-44
+125    </application>
+126
+127</manifest>

@@ -1,0 +1,482 @@
+[
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.quanlychitieu.app-merged_res-16:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.quanlychitieu.app-main-18:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_delete_alert_dialog.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\delete_alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_activity_showing_expenses_detail.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\activity_showing_expenses_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_out.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\out.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_category.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\category.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_fragment_choosing_accounts.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\fragment_choosing_accounts.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_set_default_account.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\set_default_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_activity_budget.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\activity_budget.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_pen.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\pen.xml"
+    },
+    {
+        "merged": "com.example.quanlychitieu.app-merged_res-16:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.quanlychitieu.app-main-18:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.quanlychitieu.app-merged_res-16:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.quanlychitieu.app-main-18:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\menu_adding_income_activity.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\menu\\adding_income_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_activity_transfer.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\activity_transfer.xml"
+    },
+    {
+        "merged": "com.example.quanlychitieu.app-merged_res-16:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.quanlychitieu.app-main-18:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_fragment_paying_debts.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\fragment_paying_debts.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_fragment_category_detail.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\fragment_category_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_expense_item.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\expense_item.xml"
+    },
+    {
+        "merged": "com.example.quanlychitieu.app-merged_res-16:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.quanlychitieu.app-main-18:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_fragment_showing_security_question.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\fragment_showing_security_question.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\menu_credits_detail_acitivity.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\menu\\credits_detail_acitivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\menu_transfer_activity.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\menu\\transfer_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\menu_adding_credit_acitivity.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\menu\\adding_credit_acitivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_budgets.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\budgets.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_summary.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\summary.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\menu_adding_expense_activity.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\menu\\adding_expense_activity.xml"
+    },
+    {
+        "merged": "com.example.quanlychitieu.app-merged_res-16:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.quanlychitieu.app-main-18:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_activity_showing_accounts.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\activity_showing_accounts.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_fragment_choose_category.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\fragment_choose_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_activity_adding_credit.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\activity_adding_credit.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_edit.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_transfer.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\transfer.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_bills.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\bills.xml"
+    },
+    {
+        "merged": "com.example.quanlychitieu.app-merged_res-16:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.quanlychitieu.app-main-18:/mipmap-mdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_account_history_item.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\account_history_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_expense.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_save.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\save.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\menu_setting_accounts_acitivity.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\menu\\setting_accounts_acitivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_account.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\account.xml"
+    },
+    {
+        "merged": "com.example.quanlychitieu.app-merged_res-16:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.quanlychitieu.app-main-18:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_minus.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\minus.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_ic_sync_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\ic_sync_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_delete.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_income_item.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\income_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.quanlychitieu.app-merged_res-16:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.quanlychitieu.app-main-18:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_activity_preferences.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\activity_preferences.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_activity_setting_accounts.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\activity_setting_accounts.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-pngs-12:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.quanlychitieu.app-merged_res-16:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.quanlychitieu.app-main-18:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\menu_activity_main_drawer.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\menu\\activity_main_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_fragment_category_add.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\fragment_category_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_splash.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_activity_showing_income.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\activity_showing_income.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.quanlychitieu.app-merged_res-16:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.quanlychitieu.app-main-18:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_description.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\description.xml"
+    },
+    {
+        "merged": "com.example.quanlychitieu.app-merged_res-16:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.quanlychitieu.app-main-18:/mipmap-hdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_logo.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_activity_showing_expenses.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\activity_showing_expenses.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_activity_adding_income.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\activity_adding_income.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_nav_header_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\nav_header_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_payment.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_fragment_choosing_security_question.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\fragment_choosing_security_question.xml"
+    },
+    {
+        "merged": "com.example.quanlychitieu.app-merged_res-16:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.quanlychitieu.app-main-18:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable-v21_ic_menu_manage.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable-v21\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "com.example.quanlychitieu.app-merged_res-16:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.quanlychitieu.app-main-18:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_fragment_choosing_in_to.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\fragment_choosing_in_to.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_app_bar_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\app_bar_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_money.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\money.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\menu_detail_income_activity.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\menu\\detail_income_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_plus.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\plus.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_select_payment_date_fragment.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\select_payment_date_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_fragment_monthly_net_earnings.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\fragment_monthly_net_earnings.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_date_item.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\date_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_accounts_item.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\accounts_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_card.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\card.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_layout_border.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\layout_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_date.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\date.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_add.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\add.xml"
+    },
+    {
+        "merged": "com.example.quanlychitieu.app-merged_res-16:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.quanlychitieu.app-main-18:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_content_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_activity_showing_credit.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\activity_showing_credit.xml"
+    },
+    {
+        "merged": "com.example.quanlychitieu.app-merged_res-16:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.quanlychitieu.app-main-18:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_activity_showing_income_detail.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\activity_showing_income_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_budget_item.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\budget_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\menu_detail_expense_activity.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\menu\\detail_expense_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_debts_item.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\debts_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_credit_item.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\credit_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\menu_main.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\xml_settings.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\xml\\settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_income.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\income.xml"
+    },
+    {
+        "merged": "com.example.quanlychitieu.app-merged_res-16:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.quanlychitieu.app-main-18:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_exit.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_type.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\type.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_ic_info_black_24dp.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\ic_info_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\layout_activity_adding_expense.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\layout\\activity_adding_expense.xml"
+    },
+    {
+        "merged": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-merged_res-16:\\drawable_in.xml.flat",
+        "source": "C:\\Users\\User\\.gradle\\daemon\\8.5\\com.example.quanlychitieu.app-main-18:\\drawable\\in.xml"
+    },
+    {
+        "merged": "com.example.quanlychitieu.app-merged_res-16:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.quanlychitieu.app-main-18:/mipmap-xhdpi/ic_launcher_foreground.webp"
+    }
+]
